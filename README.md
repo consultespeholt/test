@@ -1,6 +1,4 @@
 Better headline
 ====
 
-And some
-
-text
+And some text
